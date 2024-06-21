@@ -10,6 +10,8 @@ I've got full frontend/backend testing via Jest, an Auto-documenting API via swa
 
 Clicking the link takes you to the live version of this application at https://weatherapp.gabriellacodes.com (this is hosted via AWS Amplify for a serverless frontend experience!)
 
+**PS: There's search autocompletion built in for cities across the globe!**
+
 ![image](https://github.com/gaschecher/weather-app/assets/114196510/97c971ae-1027-4638-bec3-501e00ed9451)
 
 
